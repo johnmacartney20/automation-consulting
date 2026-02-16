@@ -321,6 +321,42 @@ Work with our team to transform your operations and achieve measurable results.
 - 24/7 scheduling availability
 - Better patient experience
 
+## 📖 Comprehensive Resources
+
+Explore our complete library of automation and efficiency resources:
+
+### 📋 Assessment & Planning
+- **[Efficiency Assessment Template](efficiency-assessment-template.md)** - Comprehensive questionnaire to evaluate your business's automation readiness and identify opportunities
+- **[ROI Calculator Guide](roi-calculator-guide.md)** - Detailed framework for calculating the return on investment for automation projects
+- **[Implementation Roadmap](implementation-roadmap.md)** - Step-by-step project plan template for successful automation deployment
+
+### 🎯 Opportunity Discovery
+- **[Opportunity Catalog](opportunity-catalog.md)** - Extensive catalog of 100+ automation opportunities organized by department and industry
+- **[Industry-Specific Guides](industry-guides.md)** - Deep-dive efficiency guides for Healthcare, Professional Services, Manufacturing, E-commerce, Financial Services, and more
+
+### 🚀 Getting Started
+- **[Getting Started Guide](getting-started-guide.md)** - Practical 30-day quick start plan for your first automation project, including tool recommendations and budget guidelines
+
+### 💼 Real-World Examples
+- **[Case Studies](case-studies.md)** - Detailed success stories from businesses that achieved 400-2000%+ ROI through automation, with specific metrics and implementation details
+
+### Quick Navigation by Role
+
+**For Business Owners/Executives:**
+1. Start with [Case Studies](case-studies.md) to see real-world results
+2. Use [ROI Calculator Guide](roi-calculator-guide.md) to project your returns
+3. Review [Opportunity Catalog](opportunity-catalog.md) for relevant ideas
+
+**For Operations Managers:**
+1. Complete the [Efficiency Assessment Template](efficiency-assessment-template.md)
+2. Follow the [Getting Started Guide](getting-started-guide.md) for quick wins
+3. Use the [Implementation Roadmap](implementation-roadmap.md) for project planning
+
+**For Department Heads:**
+1. Check [Industry-Specific Guides](industry-guides.md) for your sector
+2. Review [Opportunity Catalog](opportunity-catalog.md) for your function
+3. Reference [Case Studies](case-studies.md) for similar challenges
+
 ## 📄 License
 
 This repository contains consulting frameworks and methodologies for business automation.
