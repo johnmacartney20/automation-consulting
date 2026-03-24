@@ -1,0 +1,17 @@
+# Environment variables (may contain secrets)
+.env
+
+# Google service account credentials
+credentials.json
+
+# Scraped output — store locally, don't commit
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
